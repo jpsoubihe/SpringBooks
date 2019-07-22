@@ -1,0 +1,19 @@
+core
+
+spring boot/mvc/quarts
+
+consul - registro de serviços
+
+Service description - spring boot
+Password histroy - go
+Password manager - spring boot
+
+ZIO framework
+Net framework
+
+
+Quais são suas preferencias? Objetivos?
+
+
+
+
